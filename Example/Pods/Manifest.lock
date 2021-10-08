@@ -1,0 +1,16 @@
+PODS:
+  - TMNavigationBar (0.1.0)
+
+DEPENDENCIES:
+  - TMNavigationBar (from `../`)
+
+EXTERNAL SOURCES:
+  TMNavigationBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TMNavigationBar: 96c2e29cbeae1a7d3f6d6816f4b0ee6e6e20ecba
+
+PODFILE CHECKSUM: d267cd2eb79df371c547ef2b3f408d135834d0d2
+
+COCOAPODS: 1.10.1
