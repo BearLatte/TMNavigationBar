@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TMNavigationBar_Example' do
+  pod 'TMNavigationBar', :path => '../'
+
+  target 'TMNavigationBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
