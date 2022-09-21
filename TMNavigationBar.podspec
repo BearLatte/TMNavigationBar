@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TMNavigationBar'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '自定义导航栏，用于全局，支持背景透明，支持自定义颜色，支持全部自定义'
 
 # This description is used to generate tags and improve search results.

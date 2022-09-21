@@ -43,7 +43,7 @@ extension UIViewController {
             let tabBar = fromViewController as! UITabBarController
             return tm_currentViewController(from: tabBar.selectedViewController!)
         } else if fromViewController.presentedViewController != nil {
-            return tm_currentViewController(from: fromViewController.presentingViewController!)
+            return tm_currentViewController(from: fromViewController.presentedViewController!)
         } else {
             return fromViewController
         }
